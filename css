@@ -1,0 +1,45 @@
+
+body {
+  background-color: #dddddd;
+  margin: 0 auto;
+  max-width: 53em;     
+}
+
+
+body:after {
+            content: "";
+            background-image:url('https://archive.lib.msu.edu/crcmath/math/math/p/p3_1305.gif');
+            background-repeat:repeat;
+            background-position:center;
+            background-attachment:fixed;
+            background-size:900px;
+            opacity: 0.1;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            position: absolute;
+            z-index: -1;
+        }
+
+
+h1 {
+    font-size: 18px;
+    font-family: sans-serif;
+    color: 111111;
+  }
+  .black-border{
+    border-color: black;
+    border-width:2px;
+    border-radius:3%;
+    border-style:solid;
+  }
+ 
+   #pic1{
+    margin-top: 52px; 
+  } 
+
+
+
+
+ 
