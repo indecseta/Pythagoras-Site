@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<style>
+
+body {
+  background-color: #dddddd;
+  margin: 0 auto;
+  max-width: 53em;     
+}
+
+body:after {
+            content: "";
+            background-image:url('https://archive.lib.msu.edu/crcmath/math/math/p/p3_1305.gif');
+            background-repeat:repeat;
+            background-position:center;
+            background-attachment:fixed;
+            background-size:900px;
+            opacity: 0.1;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            position: absolute;
+            z-index: -1;
+        }
+h1 {
+    font-size: 18px;
+    font-family: sans-serif;
+    color: 111111;
+  }
+  .black-border{
+    border-color: black;
+    border-width:2px;
+    border-radius:3%;
+    border-style:solid;
+  }
+ 
+   #pic1{
+    margin-top: 52px; 
+  } 
+
+</style>
+
+<head>
+<title>Pythagoras</title>
+</head>
+
+<div class="background">
+<body>
+
+<header>
+ <h1 class="text-center">PYTHAGORAS</h1>
+ <h1 class="text-center">––––––––––––––––––––––––––––––––––––––––––––––––––––––––––</font></h1>
+ <h3 class="text-center"><em>"A thought is an idea in transit."</em></h3>
+</header>
+
+ <div>
+  <center>
+   <a href="http://www.hermes-press.com/Pythagoras-Knapp.gif" target="_blank"> <img id="pic1" class="black-border img-responsive" alt="Painting of Pythagoras standing with his work." src="http://www.hermes-press.com/Pythagoras-Knapp.gif" width="800"></a>
+  </center>
+  <h3><font size="5" color="#0070d2">Pythagoras (Πυθαγόρας), a Greek philosopher and mathematician</h3> </font>
+ </div>
+
+ <br><br>
+ <div>
+
+  <span style="font-size: 13.5pt; color:black; text-align:justify; font-family: sans-serif">
+   <h3>Overview of Pythagoras:</h3>
+<ul>
+  <li>Born in Samos, an island off the Ionian coast c. 570 BC.</li>
+  <li>During the persian invasion, Pythagoras left and settled in croton, Itlay, where he opened a school for religious and scientific studies.</li>
+  <li>2 issues arise in studying Pythagoras' works:</li>
+    <ol>
+      <li>All the discorveries made by the commnuity were attributed to Pythagoras, even after he had died for many years. Therefore, we are unsure of Pythogoras' own ideas.</li>
+      <li>Since the community was a exclusive society, no written document was made. We only have secondhand accounts, some of which are from those who were never members of the school.</li>
+    </ol></ul>
+  <h3>Pythagorean school of thought:</h3>
+  <ul>
+  <li>Members of the Pythagorean school were under 5-year inititation period, where the new member must observe silence.</li>
+  <li>Pythagoreans believed in reincarnations, thus they asbstain from eating meat.</li>
+  <li>3 fundemental principles of Pythagrianism: purification, contemplation, and order.</li>
+  <li>Pythagoras held that the 1st principle of nature is <em>numbers</em>, leading us the quantative science.</li>
+  <li>Best known for coming up with the<a href="https://en.wikipedia.org/wiki/Pythagorean_theorem" target="_blank"> Pythagorean theorem</a>. > <span style="color: #ff4080"> Scoll down to explore various proofs</span></li>
+  <li>Pythagoras lso discovered the <a href="https://en.wikipedia.org/wiki/Commensurability_(mathematics)" target="_blank"> principle of incommensurability </a>(irrational numbers).</li>
+  <li>For Pythagoreans: even numbers represent the unlimited, odd numbers the limited. Here's a visual explaination:</li>
+  <p>Consider a set of units arranged in form of square below: </p>
+
+  <p><img width="650px" src="https://docs.google.com/drawings/d/1ZeMeD6rWVoLIJ4jJ7l_1FxJ7XSNgvadQwL82DIDjogE/pub?w=1119&h=355" />
+   <p id="explain"><span style="font:12pt">
+        If you bisect the odd-numbered square (left), you get 3 units on each side of the right angeled triangle, with nothing left over. If you bisect the even-numbered square, you get additional units over on one side.
+     </p></span> &nbsp;
+    <li>Pythoreans associated the finite with order and rationality, the infinite with disorder and irrationality.</li>
+    <li>To Pythagoras, "1" is not a number becuase number implies plurality –"2" is the beginning of pluralilty.</li>
+    </span>
+ </div>
+
+ <div id="proofs">
+  <br><br>
+  <h3>Ways to prove Pythagoras Theorem:</h3>
+  </body>
+
+
+  <div id="imgs">
+
+
+   <p> <span style="font-size:15pt">(1)<a href="http://mathforum.org/library/drmath/view/54712.html"><img src ="http://www.cut-the-knot.org/pythagoras/EuclidI47a.gif"></a>
+ <a href="https://www.youtube.com/watch?v=9hBJRjFHGpU" target="_blank"><u> Bridal Chair</u></a></span>
+    <br>
+    <span style="font-size:15pt">(2)<a href="http://mathforum.org/library/drmath/view/54712.html"><img width="450px" src="http://mathforum.org/dr.math/gifs/pythpict.gif"></a>
+ <a href="http://mathforum.org/library/drmath/view/54712.html" target="_blank"> <u> Four Right Triangles</u></a></span>
+    <br><br>
+    <span style="font-size:15pt">(3)
+ <br><br><a href="https://en.wikipedia.org/wiki/Zhou_Bi_Suan_Jing"><img width="300px" src=" http://www.cut-the-knot.org/pythagoras/proof31c.gif"></a><a href="https://en.wikipedia.org/wiki/Zhou_Bi_Suan_Jing">&nbsp; <u>Zhou Bi Suan Jing (周髀算經)</u></a></span>
+    <br><br>
+
+    <span style="font-size:15pt">(4)<br><a href="http://math.nmsu.edu/~pmorandi/CourseMaterials/PythagoreanLeonardo.html"><img width="270px" src="http://www.cut-the-knot.org/pythagoras/proof151.gif"></a>
+ <a href="http://math.nmsu.edu/~pmorandi/CourseMaterials/PythagoreanLeonardo.html" target="_blank"> <u>  Leonardo da Vinci's proof</u></a></span>
+    <br><br>
+
+    <span style="font-size:15pt">(5)<br><a href="  https://en.wikipedia.org/wiki/Pappus%27s_area_theorem" target="_blank"><img width="270px" src="http://www.cut-the-knot.org/pythagoras/proof161.gif"></a>
+<a href="http://www.cut-the-knot.org/pythagoras/#17" target="_blank"><u> From Pappus of Alexandria </u></a></span>
+    <br><br>
+
+    <br>
+    <span style="font-size:16pt">Read about <a href="http://www.cut-the-knot.org/pythagoras/" target="_blank"> <u>more proofs</u></a> here.</span>
+    <br><br>
+
+
+    <center>
+     <br><br>
+     <p> <span style="font-size: 15pt; font-color: black">
+<b>Reference:</b> <i>The Story of Ideas </i> by James F. Crowley.</span></p>
+     <br><br>
+
+</body>
+     <div class="col-md-12">
+      <div class="row">
+       <a href="https://en.wikipedia.org/wiki/Pythagoras" target="_blank"><button type="button" class="btn btn-info" data-toggle="collapse" data-target="#timeline"> Wikipedia page of Pythagoras </button></a>
+       <button class="btn btn-danger" id="target4">Kepler</button>
+       <button class="btn btn-info" id="target5">Ptolemy</button>
+       <button class="btn btn-success" id="target6">Socrates</button>
+      </div>
+     </div>
+     </cetner>
+     &nbsp;
+     <p align="right">@indecs 2016</p>
+     
+     
+<script>
+document.getElementsByTagName("h1")[0].style.fontSize = "80px";
+</script>
