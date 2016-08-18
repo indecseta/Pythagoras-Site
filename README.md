@@ -1,3 +1,3 @@
 # Pythagoras-Site
-A tribute website for Pythagoras hosted on Codepen. 
-Here is the site: https://codepen.io/indecs/full/Krbyjr/
+A tribute website for Pythagoras.
+Preview on Codepen: https://codepen.io/indecs/full/Krbyjr/
